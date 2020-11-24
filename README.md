@@ -2,7 +2,7 @@
 official website: flutter.dev or flutter.cn
 official packages repository: pub.dev
 
-##This project recommend library(packages) as bellow:
+## This project recommends library(packages) as bellow:
 
 1.Database
 sqflite

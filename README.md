@@ -14,9 +14,11 @@ official packages repository: pub.dev
 sqflite
 
 
+
 2.statistics(analysis) + log(exception) upload + app upgrade
 
 flutter-bugly
+
 
 
 3.permission request dynamically
@@ -24,14 +26,17 @@ flutter-bugly
 permission_handler
 
 
+
 4.network
 
 dio
 
 
+
 5.network cache
 
 dio_http_cache
+
 
 
 6.mvvm

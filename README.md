@@ -1,10 +1,8 @@
-# flutter architecture recommend
-
-# Have not read flutter official website??  ----Just do it!
+### Have not read flutter official website??  ----Just do it!
 official website: flutter.dev or flutter.cn
 official packages repository: pub.dev
 
-This project recommend library(packages) as bellow:
+##This project recommend library(packages) as bellow:
 
 1.Database
 sqflite

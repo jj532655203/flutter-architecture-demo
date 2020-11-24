@@ -9,37 +9,27 @@ official packages repository: pub.dev
 ## This project recommends library(packages) as bellow:
 
 
-1.Database
+### 1.Database
 
 sqflite
 
-
-
-2.statistics(analysis) + log(exception) upload + app upgrade
+### 2.statistics(analysis) + log(exception) upload + app upgrade
 
 flutter-bugly
 
-
-
-3.permission request dynamically
+### 3.permission request dynamically
 
 permission_handler
 
-
-
-4.network
+### 4.network
 
 dio
 
-
-
-5.network cache
+### 5.network cache
 
 dio_http_cache
 
-
-
-6.mvvm
+### 6.mvvm
 
 stacked
 
